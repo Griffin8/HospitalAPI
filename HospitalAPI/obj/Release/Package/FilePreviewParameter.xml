@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/HospitalAPI" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Dan\\RestfulAPI\\HospitalAPI\\HospitalAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Dan\\RestfulAPI\\HospitalAPI\\HospitalAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
